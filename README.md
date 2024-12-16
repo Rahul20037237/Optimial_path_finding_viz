@@ -33,10 +33,13 @@ Follow these simple steps to set up the project locally:
 - A_star.py: Implements the A* algorithm for pathfinding (if implemented).
 
 ## ⚙️ Usage
-Run the main script
-```bash
-   python main.py
+1. Run the main script
+`
 
+
+
+``bash
+   python main.py
 The grid will be displayed on the screen.
 
 Press the Space key to visualize BFS starting from the top-left corner (0, 0) to the bottom-right corner (29, 29).
@@ -55,7 +58,7 @@ The program visualizes the BFS traversal across the grid, highlighting the cells
 
 🎬 Video Demo
 You can view the demo video of the project below:
-
+https://github.com/user-attachments/assets/5b629629-e45f-4ce3-8663-5d686722219e
 
 
 Watch the demo to see how the pathfinding algorithms work in real-time!
