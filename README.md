@@ -66,5 +66,5 @@ You can view the demo video of the project below:
 
 
 ## Author
-Developed by **RAHUL A**. Contributions are welcome!
+Developed by **RAHUL A**.
 
