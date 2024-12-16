@@ -56,13 +56,12 @@ To run this project, you need the following:
 ## Example Output
 The program visualizes the BFS traversal across the grid, highlighting the cells as they are visited.
 
-## Future Improvements
-- Add support for obstacles and weighted paths.
-- Extend visualization to include A*.
-- Implement additional interactivity (e.g., setting custom start and goal positions).
+## Video Demo
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+You can view the demo video of the project below:
+
+![Astar Video](https://github.com/Rahul20037237/Optimial_path_finding_viz/raw/main/video/Astar.mp4)
+
 
 ## Author
 Developed by **RAHUL A**. Contributions are welcome!
