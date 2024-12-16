@@ -1,6 +1,6 @@
 # DFS, BFS, and A* Pathfinding Visualization using Pygame
 
-Welcome to the **Pathfinding Visualization** project! This project provides a visual representation of popular pathfinding algorithms such as **DFS (Depth First Search)**, **BFS (Breadth First Search)**, and **A* (A-Star)** using Python and the Pygame library.
+Welcome to the **Pathfinding Visualization** project! This project provides a visual representation of popular pathfinding algorithms such as **DFS (Depth First Search)**, **BFS (Breadth First Search)**, and ****A* (A-Star)**** using Python and the Pygame library.
 
 ## 🚀 Features
 - **Grid-based visualization** of pathfinding algorithms.
