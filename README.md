@@ -34,17 +34,13 @@ Follow these simple steps to set up the project locally:
 
 ## ⚙️ Usage
 1. Run the main script
-`
+   ``bash
+      python main.py
+2. he grid will be displayed on the screen.
 
+3. Press the Space key to visualize BFS starting from the top-left corner (0, 0) to the bottom-right corner (29, 29).
 
-
-``bash
-   python main.py
-The grid will be displayed on the screen.
-
-Press the Space key to visualize BFS starting from the top-left corner (0, 0) to the bottom-right corner (29, 29).
-
-To exit the program, simply close the window.
+4. To exit the program, simply close the window.
 
 ## ⌨️ Keyboard Controls
 Space: Start the BFS algorithm and reset the grid.
