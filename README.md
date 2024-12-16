@@ -21,22 +21,22 @@ Follow these simple steps to set up the project locally:
    ```bash
    git clone https://github.com/Rahul20037237/Optimial_path_finding_viz.git
    cd Optimial_path_finding_viz
-2.Install the required dependencies:
+2. Install the required dependencies:
    ```bash
-      pip install pygame
+   pip install pygame
 
 ## 📁 Files Overview
-main.py: Entry point of the project that runs the pathfinding algorithm.
-Grid_making.py: Contains the Grid class responsible for creating and managing the grid.
-DFS.py: Implements the DFS algorithm for pathfinding.
-BFS.py: Implements the BFS algorithm for pathfinding.
-A_star.py: Implements the A* algorithm for pathfinding (if implemented).
-## ⚙️ Usage
-Run the main script:
+- main.py: Entry point of the project that runs the pathfinding algorithm.
+- Grid_making.py: Contains the Grid class responsible for creating and managing the grid.
+- DFS.py: Implements the DFS algorithm for pathfinding.
+- BFS.py: Implements the BFS algorithm for pathfinding.
+- A_star.py: Implements the A* algorithm for pathfinding (if implemented).
 
-bash
-Copy code
-python main.py
+## ⚙️ Usage
+Run the main script
+```bash
+   python main.py
+
 The grid will be displayed on the screen.
 
 Press the Space key to visualize BFS starting from the top-left corner (0, 0) to the bottom-right corner (29, 29).
