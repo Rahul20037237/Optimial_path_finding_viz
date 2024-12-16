@@ -23,7 +23,8 @@ Follow these simple steps to set up the project locally:
    cd Optimial_path_finding_viz
 2.Install the required dependencies:
 ```bash
-pip install pygame
+      pip install pygame
+
 ## 📁 Files Overview
 main.py: Entry point of the project that runs the pathfinding algorithm.
 Grid_making.py: Contains the Grid class responsible for creating and managing the grid.
