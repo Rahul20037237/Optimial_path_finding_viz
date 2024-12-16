@@ -59,8 +59,10 @@ The program visualizes the BFS traversal across the grid, highlighting the cells
 ## Video Demo
 
 You can view the demo video of the project below:
-
-![Astar Video](https://github.com/Rahul20037237/Optimial_path_finding_viz/raw/main/video/Astar.mp4)
+<figure class="video_container">
+  <iframe src="https://github.com/Rahul20037237/Optimial_path_finding_viz/blob/0bf258393fedb4128b0148c7eab30d74c1e5cb14/video/Astar.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 
 ## Author
